@@ -1,0 +1,70 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">寻古</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab1">These are the top stories:</string>
+    <string name="tab2">Tech news you can use:</string>
+    <string name="tab3">Cooking tips:</string>
+
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text" >Lorem ipsum dolor sit amet,
+    consectetur adipiscing elit. Praesent ultrices congue rutrum.
+    Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+    eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+    blandit, dolor diam fringilla tellus, eu euismod mauris neque
+    at neque.</string>
+    <array name="item_image">
+        <item>@drawable/i001</item>
+        <item>@drawable/i002</item>
+        <item>@drawable/i003</item>
+        <item>@drawable/i004</item>
+        <item>@drawable/i005</item>
+        <item>@drawable/i006</item>
+        <item>@drawable/i007</item>
+    </array>
+    <string-array name="guide_titles">
+        <item>中国国家博物馆</item>
+        <item>故宫博物院</item>
+        <item>陕西历史博物馆</item>
+
+    </string-array>
+
+    <string-array name="guide_info">
+        <item>中国国家博物馆，英文National Museum of China，简称国博，位于北京市中心天安门广场东侧，东长安街南侧，与人民大会堂东西相对称，是历史与艺术并重，集收藏、展览、研究、考古、公共教育、文化交流于一体的综合性博物馆。国博隶属于中华人民共和国文化和旅游部。
+            2013年末，中国国家博物馆总建筑面积近20万平方米，藏品100余万件，展厅48个。
+            国博是世界上单体建筑面积最大的博物馆，是中华文物收藏量最丰富的博物馆之一。2012年游客接待量达到537万人次，2013年达到745万人次。
+            2019年4月10日重装开馆。国博同时还宣布了4月11日将在国博举办的三场活动——“丝绸之路国家博物馆的功能与使命”全球博物馆馆长论坛、“殊方共享——丝绸之路国家博物馆文物精品展”、《海外藏中国古代文物精粹·英国大英博物馆卷》新书首发式。
+            中国国家博物馆是世界上建筑面积最大的博物馆，总建筑面积近20万平方米。总用地面积7万平方米。建筑高度42.5米，地上5层，地下2层。
+            建筑由两轴两区构成。两轴为：由西门到东门的东西轴线和由南到北的南北轴线。两区为：由中轴内中央大厅分隔的南北两个展区。西门面向天安门广场，与人民大会堂相对；北门面向长安街。南北艺术长廊长260米，高28米；顶部有368个采用中国传统建筑风格的藻井，有着独特的装饰、采光、照明和通风等作用。楼顶有近2万平方米的屋顶绿地，表现出了环保和节能的理念。
+            截止至2013年，有展厅数量48个，最大的2000平方米，最小的近800平方米。另有近800个座位的剧场、近300个座位的学术报告厅（兼数码影院）、600平方米的演播室，以及2800平方米的图书馆。还有大面积对公众开放的休闲公共空间以及600个车位的地下停车场。 </item>
+        <item>北京故宫博物院是一座中国综合性博物馆，建立于1925年10月10日，位于北京故宫紫禁城内，收藏品包括但不限于明朝、清朝两代皇宫及其收藏。
+            北京故宫博物院是中国最大的古代文化艺术博物馆，是第一批全国爱国主义教育示范基地。世界三大宫殿之一。
+            北京故宫是第一批全国重点文物保护单位、第一批国家5A级旅游景区、全国未成年人思想道德建设工作先进单位，1987年入选《世界文化遗产名录》。
+            北京故宫博物院位于北京城中心，东西宽753米，南北长961米，占地面积723600余平方米，周围环以10米高的城墙和52米宽的护城河（筒子河）。城墙四面各设城门一座：南名午门，北称神武门，左右为东华门、西华门，其中午门为参观入口，神武门为参观出口。城内古建筑总面积约16万平方米（一说为163,000平方米），整组宫殿建筑布局谨严，秩序井然，布局与形制均严格按照封建礼制和阴阳五行学说设计与营造，映现出帝王至高无上的权威。
+            外朝：紫禁城前半部（南半部）以太和殿、中和殿、保和殿三大殿为中心，东西辅以文华殿和武英殿，统称为“外朝”，是明、清两代皇帝办理政务、举行朝会及其他重要庆典的场所。三大殿建于高8.13米的3层汉白玉石台基上。
+            后寝区，又称内廷，为紫禁城北部皇室生活区域的统称。这里以皇帝、皇后的正寝宫殿乾清、坤宁二宫为中央，东、西分布皇帝的便殿，和后妃们居住的东六宫、西六宫，以及皇子们生活的乾东五所、乾西五所等院落。再向东为乾隆皇帝兴建起的太上皇宫殿院落宁寿宫区，外西路则是供太后、太妃们养老的慈宁宫、寿康宫、寿安宫等区域。</item>
+        <item>陕西历史博物馆，中国第一座大型现代化国家级博物馆，首批“AAAA”级旅游景点，被誉为“古都明珠，华夏宝库”。位于陕西省西安市雁塔区小寨东路91号，大雁塔西北侧。馆藏文物171.795万件（组，其中，一级文物762件（组），国宝级文物18件（组），其中2件为首批禁止出国（境）展览文物，居中国博物馆前列。
+            陕西历史博物馆建筑的外观着意突出了盛唐风采，长安自古帝王都，历史上先后有周、秦、汉、隋、唐等十三个封建王朝在此建都，具有丰富的地上地下文物，形成了陕西独特的历史文化风貌。
+            陕西历史博物馆前身为民国三十三年（1944年）六月成立的“陕西省历史博物馆”，1955年6月改称陕西省博物馆。1983年，根据周恩来总理生前指示，开始在现址筹建新馆，1986年夏破土动工，1991年6月20日正式建成开放，并定名现名。馆区占地 6.5万平方米。建筑面积5.56万平方米，文物库区面积8千平方米，展厅面积1.1万平方米。馆藏文物上起远古人类初始阶段使用的简单石器，下至1840年前社会生活中的各类器物，时间跨度长达一百多万年。文物不仅数量多、种类全，而且品位高、价值广。获中国建筑学会建筑创作奖，被联合国教科文组织确认为世界一流博物馆。
+            2008年，陕西历史博物馆被评为国家一级博物馆，2009年被确定为中央地方共建国家级重点博物馆。2016年，陕西历史博物馆被中国文物学会、中国建筑学会评选入“中国20世纪建筑遗产” 。2017年12月，入选教育部第一批全国中小学生研学实践教育基地名单。</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+    <array name="guide_images">
+        <item>@drawable/g001</item>
+        <item>@drawable/g002</item>
+        <item>@drawable/g003</item>
+
+    </array>
+
+</resources>

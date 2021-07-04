@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/Select.jsp=UTF-8
+encoding//src/android/bean/Item.java=UTF-8
+encoding//src/android/bean/Person.java=UTF-8
+encoding//src/android/dao/ItemDAO.java=UTF-8
+encoding//src/android/db/ConnDB.java=UTF-8
+encoding//src/android/service/ItemService.java=UTF-8
+encoding//src/android/servlet/ShowItemServlet.java=UTF-8

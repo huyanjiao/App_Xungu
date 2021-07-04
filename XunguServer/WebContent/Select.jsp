@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>呓语数据库中的数据</title>
+<title>数据库中的数据</title>
 <link href="Style.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
